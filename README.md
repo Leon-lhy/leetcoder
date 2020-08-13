@@ -8,13 +8,13 @@
 
 
 
-| #    | Title        | Tag       | Solution                                                     |
-| ---- | ------------ | :-------- | ------------------------------------------------------------ |
-| 46   | Permutations | backtrack | [Java]([https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46. Permutations.md)) |
-| 47   |              |           |                                                              |
-|      |              |           |                                                              |
-|      |              |           |                                                              |
-|      |              |           |                                                              |
-|      |              |           |                                                              |
-|      |              |           |                                                              |
+| #    | Title           | Tag       | Solution                                                     |
+| ---- | --------------- | :-------- | ------------------------------------------------------------ |
+| 46   | Permutations    | backtrack | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
+| 47   | Permutations II | backtrack | https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md |
+|      |                 |           |                                                              |
+|      |                 |           |                                                              |
+|      |                 |           |                                                              |
+|      |                 |           |                                                              |
+|      |                 |           |                                                              |
 
