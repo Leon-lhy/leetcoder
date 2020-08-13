@@ -14,7 +14,7 @@
 |      |                          |           |            |                                                              |
 |      |                          |           |            |                                                              |
 | 46   | Permutations             | backtrack | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
-| 47   | Permutations II          | backtrack | Medium     | [Java]([https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md]) |
+| 47   | Permutations II          | backtrack | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md) |
 | 62   |                          |           |            |                                                              |
 | 63   |                          |           |            |                                                              |
 |      |                          |           |            |                                                              |
