@@ -8,7 +8,13 @@
 
 
 
-
-
-[leetcode profile]: https://leetcode.com/leon-lhy/
+| #    | Title        | Tag       | Solution                                                     |
+| ---- | ------------ | :-------- | ------------------------------------------------------------ |
+| 46   | Permutations | backtrack | [Java]([https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46. Permutations.md)) |
+| 47   |              |           |                                                              |
+|      |              |           |                                                              |
+|      |              |           |                                                              |
+|      |              |           |                                                              |
+|      |              |           |                                                              |
+|      |              |           |                                                              |
 
