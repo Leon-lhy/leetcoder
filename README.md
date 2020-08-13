@@ -23,6 +23,7 @@
 | 47   | Permutations II                   | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md) |
 | 62   | Unique Paths                      | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/62.%20Unique%20Paths%20.md) |
 | 63   | Unique Paths II                   | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/63.%20Unique%20Paths%20II.md) |
+| 67   | Add Binary                        | two pointers       | Easy       |                                                              |
 | 77   | Combinations                      | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/77.%20Combinations.md) |
 | 78   | Subsets                           | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/78.%20Subsets.md) |
 | 88   | Merge Sorted Array                | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/88.%20Merge%20Sorted%20Array.md) |
