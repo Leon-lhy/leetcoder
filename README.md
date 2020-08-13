@@ -10,11 +10,11 @@
 
 | #    | Title                    | Tag       | Difficulty | Solution                                                     |
 | ---- | ------------------------ | :-------- | ---------- | ------------------------------------------------------------ |
-| 8    | String to Integer (atoi) | string    | Medium     | [Java]([https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md](https://github.com/Leon-lhy/leetcoder/blob/master/string/8. String to Integer (atoi).md)) |
+| 8    | String to Integer (atoi) | string    | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md) |
 |      |                          |           |            |                                                              |
 |      |                          |           |            |                                                              |
 | 46   | Permutations             | backtrack | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
-| 47   | Permutations II          | backtrack | Medium     | [Java]([https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md#47-permutations-ii](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47. Permutations II.md#47-permutations-ii)) |
+| 47   | Permutations II          | backtrack | Medium     | [Java]([https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md]) |
 | 62   |                          |           |            |                                                              |
 | 63   |                          |           |            |                                                              |
 |      |                          |           |            |                                                              |
