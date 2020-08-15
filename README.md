@@ -42,6 +42,7 @@
 | 279  | Perfect Squares                   | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/279.%20Perfect%20Squares.md) |
 | 322  | Coin Change                       | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/322.%20Coin%20Change.md) |
 | 417  | Pacific Atlantic Water Flow       | dfs/bfs            | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/417.%20Pacific%20Atlantic%20Water%20Flow.md) |
+| 435  | Non-overlapping Intervals         | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/435.%20Non-overlapping%20Intervals.md) |
 | 518  | Coin Change 2                     | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/518.%20Coin%20Change%202.md) |
 |      |                                   |                    |            |                                                              |
 
