@@ -17,7 +17,7 @@
 | #    | Title                             | Tag                | Difficulty | Solution                                                     |
 | ---- | --------------------------------- | :----------------- | ---------- | ------------------------------------------------------------ |
 | 8    | String to Integer (atoi)          | string             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md) |
-| 15   | 3Sum                              | two pointers       | Medium     |                                                              |
+| 15   | 3Sum                              | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
 | 39   | Combination Sum                   | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/39.%20Combination%20Sum.md) |
 | 40   | Combination Sum II                | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/40.%20Combination%20Sum%20II.md) |
 | 46   | Permutations                      | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
@@ -33,6 +33,7 @@
 | 112  | Path Sum                          | dfs                | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/112.%20Path%20Sum.md) |
 | 129  | Sum Root to Leaf Numbers          | dfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) |
 | 133  | Clone Graph                       | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/133.%20Clone%20Graph.md) |
+| 146  | LRU Cache                         | design             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/146.%20LRU%20Cache.md) |
 | 148  | Sort List                         | sort -- merge/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/148.%20Sort%20List.md) |
 | 206  | Reverse Linked List               | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/206.%20Reverse%20Linked%20List%20.md) |
 | 207  | Course Schedule                   | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/207.%20Course%20Schedule.md) |
