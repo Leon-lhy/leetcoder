@@ -18,6 +18,7 @@
 | ---- | --------------------------------- | :----------------- | ---------- | ------------------------------------------------------------ |
 | 8    | String to Integer (atoi)          | string             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md) |
 | 15   | 3Sum                              | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
+| 23   | Merge K Sorted Lists              | linkedlist         | Hard       |                                                              |
 | 39   | Combination Sum                   | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/39.%20Combination%20Sum.md) |
 | 40   | Combination Sum II                | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/40.%20Combination%20Sum%20II.md) |
 | 46   | Permutations                      | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
