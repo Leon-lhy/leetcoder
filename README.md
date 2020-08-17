@@ -33,14 +33,16 @@
 | 112  | Path Sum                          | dfs                | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/112.%20Path%20Sum.md) |
 | 129  | Sum Root to Leaf Numbers          | dfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) |
 | 133  | Clone Graph                       | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/133.%20Clone%20Graph.md) |
+| 141  | Linked List Cycle                 | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/141.%20Linked%20List%20Cycle.md) |
 | 146  | LRU Cache                         | design             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/146.%20LRU%20Cache.md) |
 | 148  | Sort List                         | sort -- merge/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/148.%20Sort%20List.md) |
+| 155  | Min Stack                         | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/155.%20Min%20Stack.md) |
 | 206  | Reverse Linked List               | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/206.%20Reverse%20Linked%20List%20.md) |
 | 207  | Course Schedule                   | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/207.%20Course%20Schedule.md) |
 | 215  | Kth Largest Element in an Array   | sort -- quick/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) |
 | 225  | Implement Stack using Queues      | design             | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/225.%20Implement%20Stack%20using%20Queues.md) |
 | 232  | Implement Queue using Stacks      | design             | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/232.%20Implement%20Queue%20using%20Stacks.md) |
-| 234  | Palindrome Linked List            | linkedlist         | Easy       |                                                              |
+| 234  | Palindrome Linked List            | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/234.%20Palindrome%20Linked%20List.md) |
 | 240  | Search a 2D Matrix II             | binary search      | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/binary_search/240.%20Search%20a%202D%20Matrix%20II.md) |
 | 279  | Perfect Squares                   | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/279.%20Perfect%20Squares.md) |
 | 322  | Coin Change                       | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/322.%20Coin%20Change.md) |
