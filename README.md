@@ -23,18 +23,18 @@
 | 40   | Combination Sum II                                        | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/40.%20Combination%20Sum%20II.md) |
 | 46   | Permutations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
 | 47   | Permutations II                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md) |
-| 49   | Group Anagrams                                            | hashtable          | Medium     |                                                              |
-| 53   | Maximum Subarray                                          | dp                 | Easy       |                                                              |
+| 49   | Group Anagrams                                            | hashtable          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/hashtable/49.%20Group%20Anagrams.md) |
+| 53   | Maximum Subarray                                          | dp                 | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/53.%20Maximum%20Subarray.md) |
 | 62   | Unique Paths                                              | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/62.%20Unique%20Paths%20.md) |
 | 63   | Unique Paths II                                           | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/63.%20Unique%20Paths%20II.md) |
 | 67   | Add Binary                                                | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/67.%20Add%20Binary.md) |
-| 71   | Simplify Path                                             | stack              | Medium     |                                                              |
+| 71   | Simplify Path                                             | stack              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/71.%20Simplify%20Path.md) |
 | 77   | Combinations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/77.%20Combinations.md) |
 | 78   | Subsets                                                   | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/78.%20Subsets.md) |
 | 88   | Merge Sorted Array                                        | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/88.%20Merge%20Sorted%20Array.md) |
 | 90   | Subsets II                                                | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/90.%20Subsets%20II.md) |
 | 102  | Binary Tree Level Order Traversal                         | bfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/bfs/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
-| 105  | Construct Binary Tree from Preorder and Inorder Traversal | dfs                | Medium     |                                                              |
+| 105  | Construct Binary Tree from Preorder and Inorder Traversal | dfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) |
 | 112  | Path Sum                                                  | dfs                | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/112.%20Path%20Sum.md) |
 | 129  | Sum Root to Leaf Numbers                                  | dfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) |
 | 133  | Clone Graph                                               | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/133.%20Clone%20Graph.md) |
