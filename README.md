@@ -18,7 +18,7 @@
 | ---- | --------------------------------------------------------- | :----------------- | ---------- | ------------------------------------------------------------ |
 | 8    | String to Integer (atoi)                                  | string             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md) |
 | 15   | 3Sum                                                      | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
-| 20   | Valid Parentheses                                         | stack              | Easy       |                                                              |
+| 20   | Valid Parentheses                                         | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/20.%20Valid%20Parentheses.md) |
 | 23   | Merge K Sorted Lists                                      | linkedlist         | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/23.%20Merge%20k%20Sorted%20Lists.md) |
 | 33   | Search in Rotated Sorted Array                            | binary search      | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/binary_search/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |
 | 39   | Combination Sum                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/39.%20Combination%20Sum.md) |
@@ -30,10 +30,12 @@
 | 62   | Unique Paths                                              | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/62.%20Unique%20Paths%20.md) |
 | 63   | Unique Paths II                                           | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/63.%20Unique%20Paths%20II.md) |
 | 67   | Add Binary                                                | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/67.%20Add%20Binary.md) |
-| 70   | Climb Stairs                                              | dp                 | Easy       |                                                              |
+| 70   | Climb Stairs                                              | dp                 | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/70.%20Climbing%20Stairs.md) |
 | 71   | Simplify Path                                             | stack              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/71.%20Simplify%20Path.md) |
 | 77   | Combinations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/77.%20Combinations.md) |
 | 78   | Subsets                                                   | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/78.%20Subsets.md) |
+| 82   | Remove Duplicates from Sorted List                        | linkedlist         | Easy       |                                                              |
+| 83   | Remove Duplicates from Sorted List II                     | linkedlist         | Meidum     |                                                              |
 | 88   | Merge Sorted Array                                        | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/88.%20Merge%20Sorted%20Array.md) |
 | 90   | Subsets II                                                | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/90.%20Subsets%20II.md) |
 | 102  | Binary Tree Level Order Traversal                         | bfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/bfs/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
@@ -52,7 +54,7 @@
 | 207  | Course Schedule                                           | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/207.%20Course%20Schedule.md) |
 | 210  | Course Schedule II                                        | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/210.%20Course%20Schedule%20II.md) |
 | 215  | Kth Largest Element in an Array                           | sort -- quick/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) |
-| 221  | Maximal Square                                            | dp                 | Medium     |                                                              |
+| 221  | Maximal Square                                            | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/221.%20Maximal%20Square.md) |
 | 225  | Implement Stack using Queues                              | design             | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/225.%20Implement%20Stack%20using%20Queues.md) |
 | 232  | Implement Queue using Stacks                              | design             | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/232.%20Implement%20Queue%20using%20Stacks.md) |
 | 234  | Palindrome Linked List                                    | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/234.%20Palindrome%20Linked%20List.md) |
@@ -64,6 +66,6 @@
 | 417  | Pacific Atlantic Water Flow                               | dfs/bfs            | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/417.%20Pacific%20Atlantic%20Water%20Flow.md) |
 | 435  | Non-overlapping Intervals                                 | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/435.%20Non-overlapping%20Intervals.md) |
 | 518  | Coin Change 2                                             | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/518.%20Coin%20Change%202.md) |
-| 560  | Subarray Sum Equals K                                     | dp                 | Medium     |                                                              |
+| 560  | Subarray Sum Equals K                                     | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/560.%20Subarray%20Sum%20Equals%20K.md) |
 | 692  | Top K Frequent Words                                      | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/692.%20Top%20K%20Frequent%20Words.md) |
 
