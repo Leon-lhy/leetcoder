@@ -34,8 +34,8 @@
 | 71   | Simplify Path                                             | stack              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/71.%20Simplify%20Path.md) |
 | 77   | Combinations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/77.%20Combinations.md) |
 | 78   | Subsets                                                   | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/78.%20Subsets.md) |
-| 82   | Remove Duplicates from Sorted List                        | linkedlist         | Easy       |                                                              |
-| 83   | Remove Duplicates from Sorted List II                     | linkedlist         | Meidum     |                                                              |
+| 82   | Remove Duplicates from Sorted List                        | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) |
+| 83   | Remove Duplicates from Sorted List II                     | linkedlist         | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) |
 | 88   | Merge Sorted Array                                        | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/88.%20Merge%20Sorted%20Array.md) |
 | 90   | Subsets II                                                | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/90.%20Subsets%20II.md) |
 | 102  | Binary Tree Level Order Traversal                         | bfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/bfs/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
@@ -66,6 +66,8 @@
 | 417  | Pacific Atlantic Water Flow                               | dfs/bfs            | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/417.%20Pacific%20Atlantic%20Water%20Flow.md) |
 | 435  | Non-overlapping Intervals                                 | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/435.%20Non-overlapping%20Intervals.md) |
 | 518  | Coin Change 2                                             | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/518.%20Coin%20Change%202.md) |
+| 523  | Continuous Subarray Sum                                   | dp                 | Medium     |                                                              |
 | 560  | Subarray Sum Equals K                                     | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/560.%20Subarray%20Sum%20Equals%20K.md) |
 | 692  | Top K Frequent Words                                      | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/692.%20Top%20K%20Frequent%20Words.md) |
+| 1143 | Longest Common Subsequence                                | dp                 | Medium     |                                                              |
 
