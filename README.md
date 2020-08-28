@@ -20,6 +20,7 @@
 | 15   | 3Sum                                                      | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
 | 20   | Valid Parentheses                                         | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/20.%20Valid%20Parentheses.md) |
 | 23   | Merge K Sorted Lists                                      | linkedlist         | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/23.%20Merge%20k%20Sorted%20Lists.md) |
+| 32   | Longest Valid Parentheses                                 | dp                 | Hard       |                                                              |
 | 33   | Search in Rotated Sorted Array                            | binary search      | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/binary_search/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |
 | 39   | Combination Sum                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/39.%20Combination%20Sum.md) |
 | 40   | Combination Sum II                                        | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/40.%20Combination%20Sum%20II.md) |
@@ -66,8 +67,8 @@
 | 417  | Pacific Atlantic Water Flow                               | dfs/bfs            | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/417.%20Pacific%20Atlantic%20Water%20Flow.md) |
 | 435  | Non-overlapping Intervals                                 | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/435.%20Non-overlapping%20Intervals.md) |
 | 518  | Coin Change 2                                             | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/518.%20Coin%20Change%202.md) |
-| 523  | Continuous Subarray Sum                                   | dp                 | Medium     |                                                              |
+| 523  | Continuous Subarray Sum                                   | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/523.%20Continuous%20Subarray%20Sum.md) |
 | 560  | Subarray Sum Equals K                                     | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/560.%20Subarray%20Sum%20Equals%20K.md) |
 | 692  | Top K Frequent Words                                      | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/692.%20Top%20K%20Frequent%20Words.md) |
-| 1143 | Longest Common Subsequence                                | dp                 | Medium     |                                                              |
+| 1143 | Longest Common Subsequence                                | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/1143.%20Longest%20Common%20Subsequence.md) |
 
