@@ -20,7 +20,7 @@
 | 15   | 3Sum                                                      | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
 | 20   | Valid Parentheses                                         | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/20.%20Valid%20Parentheses.md) |
 | 23   | Merge K Sorted Lists                                      | linkedlist         | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/23.%20Merge%20k%20Sorted%20Lists.md) |
-| 32   | Longest Valid Parentheses                                 | dp                 | Hard       |                                                              |
+| 32   | Longest Valid Parentheses                                 | dp                 | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/32.%20Longest%20Valid%20Parentheses%20.md) |
 | 33   | Search in Rotated Sorted Array                            | binary search      | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/binary_search/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |
 | 39   | Combination Sum                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/39.%20Combination%20Sum.md) |
 | 40   | Combination Sum II                                        | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/40.%20Combination%20Sum%20II.md) |
