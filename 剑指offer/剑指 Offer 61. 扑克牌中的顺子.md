@@ -28,6 +28,44 @@
 
 #### 思路1
 
+分别计算可填补牌的0的个数，以及空缺牌的个数，并最后进行比较
+
+中途需要注意代码顺序
+
+
+
+```java
+class Solution {
+    public boolean isStraight(int[] nums) {
+        Arrays.sort(nums);
+        int count = 0;
+        int diff = 0;
+        for(int i = 0; i < nums.length - 1; i++){
+            if(nums[i] == 0){
+                count++;
+                continue;
+            }
+            if(nums[i] == nums[i + 1]){
+                return false;
+            }
+            if(nums[i] + 1 != nums[i + 1]){
+                diff += nums[i + 1] - nums[i] - 1;
+            }
+        }
+        
+        return count >= diff;
+    }
+}
+```
+
+
+
+
+
+
+
+#### 思路2
+
 先计算任意牌0的数目，排序后从非0开始依次遍历，遇到差的牌去检查0是否还够用
 
 ```java
@@ -53,7 +91,7 @@ class Solution {
 
 
 
-#### 思路2
+#### 思路3
 
 更新max和min以此判断最后max-min是否小于5
 
