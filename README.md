@@ -39,7 +39,8 @@
 | 83   | Remove Duplicates from Sorted List II                     | linkedlist         | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) |
 | 88   | Merge Sorted Array                                        | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/88.%20Merge%20Sorted%20Array.md) |
 | 90   | Subsets II                                                | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/90.%20Subsets%20II.md) |
-| 94   | Binary Tree Inorder Traversal                             | tree               | Medium     |                                                              |
+| 94   | Binary Tree Inorder Traversal                             | tree               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/tree/94.%20Binary%20Tree%20Inorder%20Traversal.md) |
+| 98   | Validate Binary Search Tree                               | tree               | Medium     |                                                              |
 | 102  | Binary Tree Level Order Traversal                         | bfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/bfs/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
 | 103  | Binary Tree Zigzag Level Order Traversal                  | bfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/bfs/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) |
 | 105  | Construct Binary Tree from Preorder and Inorder Traversal | dfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) |
@@ -49,11 +50,12 @@
 | 133  | Clone Graph                                               | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/133.%20Clone%20Graph.md) |
 | 141  | Linked List Cycle                                         | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/141.%20Linked%20List%20Cycle.md) |
 | 143  | Reorder List                                              | linkedlist         | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/143.%20Reorder%20List.md) |
-| 144  | Binary Tree Preorder Traversal                            | tree               | Medium     |                                                              |
-| 145  | Binary Tree Postorder Traversal                           | tree               | Medium     |                                                              |
+| 144  | Binary Tree Preorder Traversal                            | tree               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/tree/144.%20Binary%20Tree%20Preorder%20Traversal.md) |
+| 145  | Binary Tree Postorder Traversal                           | tree               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) |
 | 146  | LRU Cache                                                 | design             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/146.%20LRU%20Cache.md) |
 | 148  | Sort List                                                 | sort -- merge/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/148.%20Sort%20List.md) |
 | 155  | Min Stack                                                 | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/155.%20Min%20Stack.md) |
+| 160  | Intersection of Two Linked Lists                          | linkedlist         | Easy       |                                                              |
 | 206  | Reverse Linked List                                       | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/206.%20Reverse%20Linked%20List%20.md) |
 | 207  | Course Schedule                                           | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/207.%20Course%20Schedule.md) |
 | 210  | Course Schedule II                                        | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/210.%20Course%20Schedule%20II.md) |
