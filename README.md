@@ -19,11 +19,14 @@
 | 8    | String to Integer (atoi)                                  | string             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md) |
 | 15   | 3Sum                                                      | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
 | 20   | Valid Parentheses                                         | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/20.%20Valid%20Parentheses.md) |
+| 21   | Merge Two Sorted Lists                                    | linkedlist         | Easy       |                                                              |
 | 23   | Merge K Sorted Lists                                      | linkedlist         | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/23.%20Merge%20k%20Sorted%20Lists.md) |
 | 32   | Longest Valid Parentheses                                 | dp                 | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/32.%20Longest%20Valid%20Parentheses%20.md) |
 | 33   | Search in Rotated Sorted Array                            | binary search      | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/binary_search/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |
+| 35   | Search Insert Position                                    | binary search      | Easy       |                                                              |
 | 39   | Combination Sum                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/39.%20Combination%20Sum.md) |
 | 40   | Combination Sum II                                        | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/40.%20Combination%20Sum%20II.md) |
+| 42   | Trapping Rain Water                                       | two pointers       | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/42.%20Trapping%20Rain%20Water.md) |
 | 46   | Permutations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
 | 47   | Permutations II                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md) |
 | 49   | Group Anagrams                                            | hashtable          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/hashtable/49.%20Group%20Anagrams.md) |
@@ -39,8 +42,8 @@
 | 83   | Remove Duplicates from Sorted List II                     | linkedlist         | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) |
 | 88   | Merge Sorted Array                                        | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/88.%20Merge%20Sorted%20Array.md) |
 | 90   | Subsets II                                                | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/90.%20Subsets%20II.md) |
-| 94   | Binary Tree Inorder Traversal                             | tree               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/tree/94.%20Binary%20Tree%20Inorder%20Traversal.md) |
-| 98   | Validate Binary Search Tree                               | tree               | Medium     |                                                              |
+| 94   | Binary Tree Inorder Traversal                             | tree               | Medium     | [Java/Javascript](https://github.com/Leon-lhy/leetcoder/blob/master/tree/94.%20Binary%20Tree%20Inorder%20Traversal.md) |
+| 98   | Validate Binary Search Tree                               | tree               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/tree/98.%20Validate%20Binary%20Search%20Tree.md) |
 | 102  | Binary Tree Level Order Traversal                         | bfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/bfs/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
 | 103  | Binary Tree Zigzag Level Order Traversal                  | bfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/bfs/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) |
 | 105  | Construct Binary Tree from Preorder and Inorder Traversal | dfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) |
@@ -55,7 +58,8 @@
 | 146  | LRU Cache                                                 | design             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/146.%20LRU%20Cache.md) |
 | 148  | Sort List                                                 | sort -- merge/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/148.%20Sort%20List.md) |
 | 155  | Min Stack                                                 | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/155.%20Min%20Stack.md) |
-| 160  | Intersection of Two Linked Lists                          | linkedlist         | Easy       |                                                              |
+| 160  | Intersection of Two Linked Lists                          | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/160.%20Intersection%20of%20Two%20Linked%20Lists.md) |
+| 198  | House Robber                                              | dp                 | Easy       |                                                              |
 | 206  | Reverse Linked List                                       | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/206.%20Reverse%20Linked%20List%20.md) |
 | 207  | Course Schedule                                           | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/207.%20Course%20Schedule.md) |
 | 210  | Course Schedule II                                        | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/210.%20Course%20Schedule%20II.md) |
@@ -67,6 +71,7 @@
 | 236  | Lowest Common Ancestor of a Binary Tree                   | dfs                | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) |
 | 240  | Search a 2D Matrix II                                     | binary search      | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/binary_search/240.%20Search%20a%202D%20Matrix%20II.md) |
 | 279  | Perfect Squares                                           | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/279.%20Perfect%20Squares.md) |
+| 300  | Longest Increasing Subsequence                            | dp                 | Medium     |                                                              |
 | 322  | Coin Change                                               | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/322.%20Coin%20Change.md) |
 | 328  | Odd Even Linked List                                      | linkedlist         | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/328.%20Odd%20Even%20Linked%20List.md) |
 | 399  | Evaluate Division                                         | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/399.%20Evaluate%20Division.md) |
