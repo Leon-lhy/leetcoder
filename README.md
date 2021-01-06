@@ -19,7 +19,7 @@
 | 8    | String to Integer (atoi)                                  | string             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md) |
 | 15   | 3Sum                                                      | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
 | 20   | Valid Parentheses                                         | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/20.%20Valid%20Parentheses.md) |
-| 21   | Merge Two Sorted Lists                                    | linkedlist         | Easy       |                                                              |
+| 21   | Merge Two Sorted Lists                                    | linkedlist         | Easy       | [Javascript](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/21.%20Merge%20Two%20Sorted%20Lists%20.md) |
 | 23   | Merge K Sorted Lists                                      | linkedlist         | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/23.%20Merge%20k%20Sorted%20Lists.md) |
 | 32   | Longest Valid Parentheses                                 | dp                 | Hard       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/32.%20Longest%20Valid%20Parentheses%20.md) |
 | 33   | Search in Rotated Sorted Array                            | binary search      | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/binary_search/33.%20Search%20in%20Rotated%20Sorted%20Array.md) |
@@ -30,7 +30,7 @@
 | 46   | Permutations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
 | 47   | Permutations II                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md) |
 | 49   | Group Anagrams                                            | hashtable          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/hashtable/49.%20Group%20Anagrams.md) |
-| 53   | Maximum Subarray                                          | dp                 | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/53.%20Maximum%20Subarray.md) |
+| 53   | Maximum Subarray                                          | dp                 | Easy       | Java                                                         |
 | 62   | Unique Paths                                              | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/62.%20Unique%20Paths%20.md) |
 | 63   | Unique Paths II                                           | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/63.%20Unique%20Paths%20II.md) |
 | 67   | Add Binary                                                | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/67.%20Add%20Binary.md) |
