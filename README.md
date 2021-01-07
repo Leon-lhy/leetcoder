@@ -30,7 +30,7 @@
 | 46   | Permutations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/46.%20Permutations.md) |
 | 47   | Permutations II                                           | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/47.%20Permutations%20II.md) |
 | 49   | Group Anagrams                                            | hashtable          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/hashtable/49.%20Group%20Anagrams.md) |
-| 53   | Maximum Subarray                                          | dp                 | Easy       | Java                                                         |
+| 53   | Maximum Subarray                                          | dp                 | Easy       | [Java/Javascript](https://github.com/Leon-lhy/leetcoder/blob/master/dp/53.%20Maximum%20Subarray.md) |
 | 62   | Unique Paths                                              | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/62.%20Unique%20Paths%20.md) |
 | 63   | Unique Paths II                                           | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/63.%20Unique%20Paths%20II.md) |
 | 67   | Add Binary                                                | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/67.%20Add%20Binary.md) |
@@ -57,6 +57,7 @@
 | 145  | Binary Tree Postorder Traversal                           | tree               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) |
 | 146  | LRU Cache                                                 | design             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/146.%20LRU%20Cache.md) |
 | 148  | Sort List                                                 | sort -- merge/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/148.%20Sort%20List.md) |
+| 152  | Maximum Product Subarray                                  | dp                 | Medium     |                                                              |
 | 155  | Min Stack                                                 | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/155.%20Min%20Stack.md) |
 | 160  | Intersection of Two Linked Lists                          | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/160.%20Intersection%20of%20Two%20Linked%20Lists.md) |
 | 198  | House Robber                                              | dp                 | Easy       |                                                              |
