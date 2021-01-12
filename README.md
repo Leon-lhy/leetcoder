@@ -16,6 +16,7 @@
 
 | #    | Title                                                     | Tag                | Difficulty | Solution                                                     |
 | ---- | --------------------------------------------------------- | :----------------- | ---------- | ------------------------------------------------------------ |
+| 2    | Add Two Numbers                                           | linkedlist         | Medium     | [Javascript](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/2.%20Add%20Two%20Numbers%20.md) |
 | 8    | String to Integer (atoi)                                  | string             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/string/8.%20String%20to%20Integer%20(atoi).md) |
 | 15   | 3Sum                                                      | two pointers       | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/15.%203Sum.md) |
 | 20   | Valid Parentheses                                         | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/20.%20Valid%20Parentheses.md) |
@@ -34,7 +35,7 @@
 | 62   | Unique Paths                                              | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/62.%20Unique%20Paths%20.md) |
 | 63   | Unique Paths II                                           | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/63.%20Unique%20Paths%20II.md) |
 | 67   | Add Binary                                                | two pointers       | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/two_pointers/67.%20Add%20Binary.md) |
-| 70   | Climb Stairs                                              | dp                 | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/70.%20Climbing%20Stairs.md) |
+| 70   | Climb Stairs                                              | dp                 | Easy       | [Java/Javascript](https://github.com/Leon-lhy/leetcoder/blob/master/dp/70.%20Climbing%20Stairs.md) |
 | 71   | Simplify Path                                             | stack              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/71.%20Simplify%20Path.md) |
 | 77   | Combinations                                              | backtrack          | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/77.%20Combinations.md) |
 | 78   | Subsets                                                   | backtrack          | Meidum     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/backtrack/78.%20Subsets.md) |
@@ -57,7 +58,7 @@
 | 145  | Binary Tree Postorder Traversal                           | tree               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) |
 | 146  | LRU Cache                                                 | design             | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/design/146.%20LRU%20Cache.md) |
 | 148  | Sort List                                                 | sort -- merge/heap | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/148.%20Sort%20List.md) |
-| 152  | Maximum Product Subarray                                  | dp                 | Medium     |                                                              |
+| 152  | Maximum Product Subarray                                  | dp                 | Medium     | [Javascript](https://github.com/Leon-lhy/leetcoder/blob/master/dp/152.%20Maximum%20Product%20Subarray%20.md) |
 | 155  | Min Stack                                                 | stack              | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/stack/155.%20Min%20Stack.md) |
 | 160  | Intersection of Two Linked Lists                          | linkedlist         | Easy       | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/160.%20Intersection%20of%20Two%20Linked%20Lists.md) |
 | 198  | House Robber                                              | dp                 | Easy       |                                                              |
@@ -76,6 +77,7 @@
 | 322  | Coin Change                                               | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/322.%20Coin%20Change.md) |
 | 328  | Odd Even Linked List                                      | linkedlist         | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/linkedlist/328.%20Odd%20Even%20Linked%20List.md) |
 | 399  | Evaluate Division                                         | graph              | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/graph/399.%20Evaluate%20Division.md) |
+| 415  | Add Strings                                               | string             | Easy       | Javascript                                                   |
 | 417  | Pacific Atlantic Water Flow                               | dfs/bfs            | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dfs/417.%20Pacific%20Atlantic%20Water%20Flow.md) |
 | 435  | Non-overlapping Intervals                                 | sort               | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/sort/435.%20Non-overlapping%20Intervals.md) |
 | 518  | Coin Change 2                                             | dp                 | Medium     | [Java](https://github.com/Leon-lhy/leetcoder/blob/master/dp/518.%20Coin%20Change%202.md) |
